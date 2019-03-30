@@ -2,8 +2,7 @@
 Some basic bash shell commands changed as per convinience of the user :
 
 for installation , just navigate to the clone directly and type :
-``` sudo npm install -g ```
-``` npm link ```
+``` sudo npm install -g ``` && ``` npm link ```
 6 basic commands implemented :
 - ls - list
 
