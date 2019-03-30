@@ -1,0 +1,21 @@
+{
+  "name": "terminal_utilities",
+  "version": "1.0.0",
+  "main": "chal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "" ,
+  "bin": {
+    "chal" : "./chal.js" , 
+    "list" : "./list.js" , 
+    "hat" : "./hat.js" ,
+    "clr" : "./clrfile.js" ,
+    "copy" : "./tepa.js" ,
+    "moov" : "./uthao.js"
+  }
+}
