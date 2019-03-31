@@ -21,5 +21,5 @@ In action : <br><img src = "https://github.com/nileshpatra/Command-line-utilitie
 
 - rm - hat
 
-In action : <br><img src = "https://github.com/nileshpatra/Command-line-utilities---change-the-name-of-your-command/blob/master/images/remove_command.png">
+In action : <br><img src = "https://github.com/nileshpatra/Command-line-utilities---change-the-name-of-your-command/blob/master/images/remove_command.png"><br>
 You can change the names as per your convinience easily by just modifying the key values in ```bin``` object in package.json .
